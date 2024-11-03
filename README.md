@@ -1,2 +1,2 @@
 # VQMultiCamera
-QT4 widget to draw IACT cameras
+QT4 widget to draw IACT cameras. Obsolete
