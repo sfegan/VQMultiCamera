@@ -1,0 +1,43 @@
+==== RENDERER ====
+
+DONE * Add aliasing option to render() function
+
+DONE * Add rounding to tube positions if aliasing is OFF
+
+DONE * Add support for finding tubes at some position
+
+DONE * Cache tube positions and simplify matrix operations
+
+DONE * Disable rotations if angle is zero
+
+DONE * Add precomputed/cached limits
+
+DONE * Add in-place tube rotation
+
+DONE * Optimize render function
+
+DONE * Fix zoom/pan functionality
+
+DONE * Implement seperate X/Y extent
+
+* Add tube highlight data option and functionality to render it
+
+DONE * Add camera data render (sort) order
+
+* Add channel key to VQMCChannelRenderer
+
+DONE * Add channel labelling
+
+DONE * Add PIE renderer
+
+==== WIDGET ====
+
+* Add support for mouse clicking/tracking (possibly cached)
+
+* Add multiple draw modes / fast draw ability with timer
+
+* Add lock to widget to allow multiple updates -- is this needed in QT4?
+
+==== OTHER ====
+
+* Make a program to demo it all
